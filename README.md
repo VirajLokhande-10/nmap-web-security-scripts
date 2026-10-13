@@ -168,7 +168,7 @@ Through this project, I gained practical experience with:
 - **Course:** Cyber Security
 - **School:** School of Computer Science and Engineering (SCOPE)
 - **Institution:** Vellore Institute of Technology, Chennai
-- **Semester:** Fall Semester 2026–2027
+- **Auditing Tool Reference:** Gordon Lyon (Fyodor), founder of Nmap — [Official Nmap Website](https://nmap.org/)
 
 ## Acknowledgements
 
